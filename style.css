@@ -589,3 +589,21 @@ iframe{
         display:none;
     }
 }
+
+/* Custom CSS */
+
+.popover {
+	font-size: 12px;
+	color: #333;
+	line-height: 1.42857143;
+	letter-spacing: normal;
+	font-weight: normal;
+}
+
+.d-bloc a {
+	color: #f6a941;
+}
+
+.d-bloc a:hover {
+	color: #f48f0b;
+}
